@@ -1,0 +1,5 @@
+/* Klasik CSS tanımlama yöntemi */
+/* Burada global tanımlamalar yapmayı tercih ederiz, özel tanımlamalar için ismiyle css oluşturabiliriz. */
+h1 {
+    color: red;
+}
